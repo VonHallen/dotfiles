@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = y.dominik.polak@gmail.com
+	name = Dom Polak
